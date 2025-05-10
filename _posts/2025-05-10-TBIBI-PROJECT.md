@@ -2,9 +2,11 @@
 layout: post
 title: "Tbibi: Doctor Appointment Booking System"
 date: 2025-05-10 12:00:00 +0000
-categories: projects webapp
-tags: [Tbibi, React, Node.js, MongoDB, Healthcare, Fullstack, Booking System]
+categories: web-app
+tags: [React, Nodejs, MongoDB, Healthcare, Fullstack, Booking System]
 ---
+
+
 
 ## Overview
 **Tbibi** is a full-stack **doctor appointment booking platform** developed to streamline the process of connecting patients with healthcare providers. Using **React**, **Node.js**, and **MongoDB**, it provides a responsive UI, robust backend APIs, and role-based access for patients, doctors, and admins.
