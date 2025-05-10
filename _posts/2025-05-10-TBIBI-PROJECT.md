@@ -2,7 +2,7 @@
 layout: post
 title: "Tbibi: Doctor Appointment Booking System"
 date: 2025-05-10 12:00:00 +0000
-categories: web-app
+categories: projects
 tags: [React, Nodejs, MongoDB, Healthcare, Fullstack, Booking System]
 ---
 
